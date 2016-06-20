@@ -1,0 +1,29 @@
+c11 c12 c13 c14 c21 c22 c23 c24 c31 c32 c33 c34 c41 c42 c43 c44
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+4 c11 c12 c13 c14 rozne
+4 c21 c22 c23 c24 rozne
+4 c31 c32 c33 c34 rozne
+4 c41 c42 c43 c44 rozne
+4 c11 c21 c31 c41 rozne
+4 c12 c22 c32 c42 rozne
+4 c13 c23 c33 c43 rozne
+4 c14 c24 c34 c44 rozne
+4 c11 c12 c21 c22 rozne
+4 c13 c14 c23 c24 rozne
+4 c31 c32 c41 c42 rozne
+4 c33 c34 c43 c44 rozne
